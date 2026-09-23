@@ -1,0 +1,8 @@
+{
+  "name": "Remix AQUAGHOST",
+  "description": "Edge-native Side-Scan Sonar pipeline featuring RepDNet physics-informed neural network and multi-ping temporal check for marine ghost net and debris detection.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
